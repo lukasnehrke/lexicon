@@ -12,7 +12,8 @@
     "build": "lexicon build --source src --output dist"
   },
   "devDependencies": {
-    "@lukasnehrke/lexicon-theme": "^0.0.4",
-    "@lukasnehrke/lexicon-tools": "^0.0.1"
+    "@lukasnehrke/lexicon-theme": "^0.0.8",
+    "@lukasnehrke/lexicon-tools": "^0.0.17",
+    "firebase-tools": "^8.4.3"
   }
 }
