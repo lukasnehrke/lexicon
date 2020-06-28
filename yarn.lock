@@ -77,15 +77,15 @@
     lodash.camelcase "^4.3.0"
     protobufjs "^6.8.6"
 
-"@lukasnehrke/lexicon-theme@^0.0.8":
-  version "0.0.8"
-  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-theme/0.0.8/6aed406855c83925f553a87927c300dcebb069f16b48dde1bcae9563156641e5#3d598880304989f9ec64ca6b0a9540d927871851"
-  integrity sha512-OQLFdKrqLV+v3o2m/nt4QpGkFW16L3i4i8fU+Wc9Xw05bgTTJXjmAH+Y9bJhqsW5vs/f8Qy8kU+jl2Z/zPPbzQ==
+"@lukasnehrke/lexicon-theme@^0.0.9":
+  version "0.0.9"
+  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-theme/0.0.9/995bcfa62fb98652952fe6920ccd690f466c7984049e6093d8a9c1d64e60c5e6#afb6eec1ff58b0f9ee9ab538d51eef34ebf48860"
+  integrity sha512-43Efi4f/Qa7IAbB4nlsfdA493ls3naJmq6C6eEbWy2fBitCMd606ra+gftSKNmLYfwJPCF2iKA69RwKS1a6PJw==
 
-"@lukasnehrke/lexicon-tools@^0.0.17":
-  version "0.0.17"
-  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-tools/0.0.17/932c8045926521170b3b0447e0bb0145d326ed250223ef049c6992af244b37a4#9378f79e6ca981c3dd6bead0d7cefe7ab36edadb"
-  integrity sha512-7FY4TlizeKDgPej4/d8teUPimZ9Gxr1ymPm3Jgr4ESoPnX1W4xuyT3LIi1KqABOwVQK19IilN+/Ep9jHaZ7U2A==
+"@lukasnehrke/lexicon-tools@^0.0.19":
+  version "0.0.19"
+  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-tools/0.0.19/26fa41f3ac34b7b8ca710beb11c0f1131ea0a2129974a8c32adae6095aac000c#33db0d800e96e6a4a6867ea07d526519319aa5df"
+  integrity sha512-5LyUlw3z8qea/yxGF110W6IZqepj4z9k/1fER1rMcC+2zZJCSn1r0XuJh0Pffp9GRlZiiI3xXctSxH410X+ReA==
   dependencies:
     commander "^5.1.0"
     ejs "^3.1.3"
