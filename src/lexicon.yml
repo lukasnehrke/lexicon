@@ -1,4 +1,4 @@
-title: Lexikon
+name: Lexikon
 theme:
   require: '@lukasnehrke/lexicon-theme'
   config:

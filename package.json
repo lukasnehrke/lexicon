@@ -9,11 +9,11 @@
   "repository": "https://github.com/lukasnehrke/lexicon",
   "bugs": "https://github.com/lukasnehrke/lexicon/issues",
   "scripts": {
-    "build": "lexicon build --source src --output dist"
+    "build": "lexicon build --clean --source src --output dist --config src/lexicon.yml"
   },
   "devDependencies": {
-    "@lukasnehrke/lexicon-theme": "^0.0.9",
-    "@lukasnehrke/lexicon-tools": "^0.0.19",
+    "@lukasnehrke/lexicon-theme": "^0.0.12",
+    "@lukasnehrke/lexicon-tools": "^0.0.23",
     "firebase-tools": "^8.4.3"
   }
 }
