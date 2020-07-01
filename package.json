@@ -12,7 +12,7 @@
     "build": "lexicon build --clean --source src --output dist --config src/lexicon.yml"
   },
   "devDependencies": {
-    "@lukasnehrke/lexicon-theme": "^0.0.12",
+    "@lukasnehrke/lexicon-theme": "^0.0.14",
     "@lukasnehrke/lexicon-tools": "^0.0.23",
     "firebase-tools": "^8.4.3"
   }

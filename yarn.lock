@@ -77,10 +77,10 @@
     lodash.camelcase "^4.3.0"
     protobufjs "^6.8.6"
 
-"@lukasnehrke/lexicon-theme@^0.0.12":
-  version "0.0.12"
-  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-theme/0.0.12/2a310fc6971a6b7e440ed79284592ac7ac0fd1cba2f3f702e142926726bd9ae2#a94f01e332ad916e9e4c5142cceddd63fa086cda"
-  integrity sha512-UXKpz/t5jSgKSsryh7ODdw7NodLpCgmQS6uQpvghFmQ6Z1U/QAlgFrI92sjHwUePxo/iPY+hhRibSfoL0pt25A==
+"@lukasnehrke/lexicon-theme@^0.0.14":
+  version "0.0.14"
+  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-theme/0.0.14/0dd2823703b31010342fe2e50f2f2cfad7ba400e11d9022fc7249c57ce9a114b#d0c445892323264fac0400652c999ab9553af193"
+  integrity sha512-/pNjMOKWZgZOEo+CB8BTSc/YIENWMCJAXf9kLJcM74qrgpHGbunSix3HD3/1k7B3D2KV6PhTGguT6O9nLMsqyw==
 
 "@lukasnehrke/lexicon-tools@^0.0.23":
   version "0.0.23"
