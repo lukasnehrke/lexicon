@@ -72,7 +72,7 @@ x_2 &= -\sqrt{4} = -2
 $$ 
 
 ::: warning Beachte: Wurzel ziehen
-Das Ziehen der Wurzel ergebt zwei Lösungen.
+Das Ziehen der Wurzel ergibt zwei Lösungen.
 $$x^2=y \Longrightarrow x = \pm \sqrt{y}$$
 :::
 
@@ -89,7 +89,7 @@ x^2    &= -2
 \end{aligned}
 $$
 
-Hier müsste man $\sqrt{-2}$ berechenen, die Wurzel aus negativen Zahlen ist aber **nicht definiert**!  
+Hier müsste man $\sqrt{-2}$ berechnen, die Wurzel aus negativen Zahlen ist aber **nicht definiert**!  
 Diese Gleichung hat also **keine Lösung**.
 
 ::: danger Beachte: Wurzel ziehen
@@ -101,7 +101,7 @@ Hat die Gleichung die Form $ax^2+bx=0$, also wenn $c=0$ ist,
 kann man die Lösung durch Ausklammern von $x$ bestimmen.
 
 #### Beispiel
-Bestimme die Lösungen von $2x^2+4x=0$
+Bestimme die Lösungen von $2x^2+4x=0$.
 
 $$
 \begin{aligned}
@@ -109,7 +109,7 @@ $$
 x \cdot (2x+4) &= 0
 \end{aligned}
 $$
-Nach dem Satz von vom Nullprodukt ist ein Produkt Null, wenn eines seiner Faktoren Null ist. Damit haben
+Nach dem Satz vom Nullprodukt ist ein Produkt Null, wenn eines seiner Faktoren Null ist. Damit haben
 wir die erste Lösung $x_1=0$ schon gefunden.  
 Für die zweite Lösung müssen wir noch $2x+4=0$ ausrechnen.
 $$

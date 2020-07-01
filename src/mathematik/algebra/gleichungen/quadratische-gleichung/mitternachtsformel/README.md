@@ -50,7 +50,7 @@ Mitternachtsformel nicht anwenden, weil man die Lösungen schneller durch Umform
 ### Schritt 3: Koeffizienten ablesen
 Für die Formel benötigt man die Koeffizienten $a$, $b$ und $c$, die sich aus der Gleichung ablesen lassen.  
 Dabei ist
-  - $a$ die Konstante vor dem $x^2$, 
+  - $a$ die Konstante vor dem $x^2$
   - $b$ die Konstante vor dem $x$ 
   - $c$ die alleinstehende Konstante (ohne $x$)
 
@@ -81,7 +81,7 @@ Dabei gilt:
 :::
 
 **In unserem Beispiel:**  
-Wir Bestimmen die Diskriminante:
+Wir rechnen die Diskriminante aus:
 $$D = \underbrace{16^2}_{b}-4\cdot \underbrace{2}_{a} \cdot \underbrace{24}_{c} = 256 - 192 = 64 > 0$$
 
 Da $D > 0$ ist, hat die Beispielgleichung zwei Lösungen.
