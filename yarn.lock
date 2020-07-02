@@ -77,15 +77,15 @@
     lodash.camelcase "^4.3.0"
     protobufjs "^6.8.6"
 
-"@lukasnehrke/lexicon-theme@^0.0.14":
-  version "0.0.14"
-  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-theme/0.0.14/0dd2823703b31010342fe2e50f2f2cfad7ba400e11d9022fc7249c57ce9a114b#d0c445892323264fac0400652c999ab9553af193"
-  integrity sha512-/pNjMOKWZgZOEo+CB8BTSc/YIENWMCJAXf9kLJcM74qrgpHGbunSix3HD3/1k7B3D2KV6PhTGguT6O9nLMsqyw==
+"@lukasnehrke/lexicon-theme@^0.0.16":
+  version "0.0.16"
+  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-theme/0.0.16/8927c059dd6dd524b0121432db83aa9c9b7ebb666fd51766f3cb782cd0776c17#2b71c16de102eb3837ede3ff9fbd430de29456bf"
+  integrity sha512-7Ksv6VZnfmf+roZpLtP8+K3CbVwiG9aS8DqPAZbZbh9ppJiHqftKs+SxwhJXpiU8AbLIlVcGfjMV8YegUuX6VA==
 
-"@lukasnehrke/lexicon-tools@^0.0.23":
-  version "0.0.23"
-  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-tools/0.0.23/db0d9bbbde4cd508533b1d136c0abe4d04b82eab9e4b0a4eff37f2cbe30b36ea#9f2cecde00ef06e2874730b7596bea34962435d2"
-  integrity sha512-QeUGYrSxnnmVsKHKj6x2JFjDRSno/ao25BF7rYSKv31RwHPeu5D69l9eo0HUInSbN2+inmdaQb6Yi9tUYga6eA==
+"@lukasnehrke/lexicon-tools@^0.0.25":
+  version "0.0.25"
+  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-tools/0.0.25/1a601830f1c65f96cd1b9c53e87f959f00a33f8b431e7d3a8d4e988aab6c562a#05a5c7056edec0ccd7028798782e6acdaee74919"
+  integrity sha512-Kcx4OtIlcgiSItS1dirU0UkL0LdUN5vvWoyFY0KV2efalA2+UTZOly0BoY6kyLQnlue8lKejBGBqXrZXhQYgIw==
   dependencies:
     cli-color "^2.0.0"
     commander "^5.1.0"
@@ -1084,7 +1084,7 @@ debug@4.1.0:
   dependencies:
     ms "^2.1.1"
 
-debug@^3.0.0, debug@^3.1.1:
+debug@^3.1.1:
   version "3.2.6"
   resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
   integrity sha512-mel+jf7nrtEl5Pn1Qx46zARXKDpBbvzezse7p7LqINmdoIk8PYP5SySaxEmYv6TZ0JyEKA1hsCId6DIhgITtWQ==
@@ -2727,6 +2727,11 @@ nash@^3.0.0:
     lodash "^4.17.5"
     minimist "^1.1.0"
 
+native-request@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/native-request/-/native-request-1.0.5.tgz#da67637c0a0ed0758243d1a688d647612f2d5a0a"
+  integrity sha512-7wU3DvBGAJQxWuMR3F62zrhB7hxNj2DdlC/eBVrCgavc6+ZpFZOqS/PsR7QyUPLMkFk0GvvzoeeOAZGLLnObnA==
+
 negotiator@0.6.2:
   version "0.6.2"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.2.tgz#feacf7ccf525a77ae9634436a64883ffeca346fb"
@@ -3138,7 +3143,7 @@ relateurl@^0.2.7:
   resolved "https://registry.yarnpkg.com/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
   integrity sha1-VNvzd+UUQKypCkzSdGANP/LYiKk=
 
-request@^2.87.0, request@^2.88.0:
+request@^2.87.0:
   version "2.88.2"
   resolved "https://registry.yarnpkg.com/request/-/request-2.88.2.tgz#d73c918731cb5a87da047e207234146f664d12b3"
   integrity sha512-MsvtOrfG9ZcrOwAW+Qi+F6HbD0CWXEh9ou77uOb7FM2WPhwT7smM833PzanhJLsgXjN89Ir6V2PczXNnMpwKhw==
@@ -3236,9 +3241,9 @@ run-parallel@^1.1.9:
   integrity sha512-DEqnSRTDw/Tc3FXf49zedI638Z9onwUotBMiUFKmrO2sdFKIbXamXGQ3Axd4qgphxKB4kw/qP1w5kTxnfU1B9Q==
 
 rxjs@^6.4.0:
-  version "6.5.5"
-  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.5.5.tgz#c5c884e3094c8cfee31bf27eb87e54ccfc87f9ec"
-  integrity sha512-WfQI+1gohdf0Dai/Bbmk5L5ItH5tYqm3ki2c5GdWhKjalzjg93N3avFjVStyZZz+A2Em+ZxKH5bNghw9UeylGQ==
+  version "6.6.0"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.6.0.tgz#af2901eedf02e3a83ffa7f886240ff9018bbec84"
+  integrity sha512-3HMA8z/Oz61DUHe+SdOiQyzIf4tOx5oQHmMir7IZEu6TMqCLHT4LRcmNaUS0NwOz8VLvmmBduMsoaUvMaIiqzg==
   dependencies:
     tslib "^1.9.0"
 
@@ -3743,13 +3748,13 @@ unique-string@^2.0.0:
     crypto-random-string "^2.0.0"
 
 universal-analytics@^0.4.16:
-  version "0.4.20"
-  resolved "https://registry.yarnpkg.com/universal-analytics/-/universal-analytics-0.4.20.tgz#d6b64e5312bf74f7c368e3024a922135dbf24b03"
-  integrity sha512-gE91dtMvNkjO+kWsPstHRtSwHXz0l2axqptGYp5ceg4MsuurloM0PU3pdOfpb5zBXUvyjT4PwhWK2m39uczZuw==
+  version "0.4.21"
+  resolved "https://registry.yarnpkg.com/universal-analytics/-/universal-analytics-0.4.21.tgz#fbdf87455c0389666a2b22f707a422eb84ca0616"
+  integrity sha512-8V37z6iO4qIgC3SYKwGGYGbFTc+mkz3WYLwc8TxIFbwAwckWsEIomETLQdrnAsGFInRQz5DyolBEYgSCDRlh2Q==
   dependencies:
-    debug "^3.0.0"
-    request "^2.88.0"
-    uuid "^3.0.0"
+    debug "^4.1.1"
+    native-request "^1.0.5"
+    uuid "^8.0.0"
 
 universalify@^1.0.0:
   version "1.0.0"
@@ -3836,6 +3841,11 @@ uuid@^3.0.0, uuid@^3.3.2:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
+
+uuid@^8.0.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.2.0.tgz#cb10dd6b118e2dada7d0cd9730ba7417c93d920e"
+  integrity sha512-CYpGiFTUrmI6OBMkAdjSDM0k5h8SkkiTP4WAjQgDgNB1S3Ou9VBEvr6q0Kv2H1mMk7IWfxYGpMH5sd5AvcIV2Q==
 
 valid-url@^1:
   version "1.0.9"
