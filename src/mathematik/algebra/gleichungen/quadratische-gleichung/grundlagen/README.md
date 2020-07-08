@@ -3,7 +3,7 @@
 Eine quadratische Gleichung ist eine Gleichung, bei der die Unbekannte quadriert wird. Das Lösen einer quadratischen
 Gleichung ist identisch mit dem Bestimmen der Nullstellen einer quadratischen Funktion.
 
-::: info Merke
+::: info Quadratische Gleichung
 Eine quadratische Gleichung hat die allgemeine Form
 $$ax^2+bx+c=0$$
 wobei $a \neq 0$ sein muss.
@@ -15,7 +15,7 @@ Beispiele für quadratische Gleichungen:
   - $(x+2)^2=-1 \Leftrightarrow x^2+4x+5=0$
 
 ## Bezeichungen
-Ist die Gleichung in allgemeiner Form $ax^2+bx+c=0$ gegeben, bezeichnet man
+Liegt eine Gleichung in allgemeiner Form $ax^2+bx+c=0$ vor, bezeichnet man
   - $ax^2$ als quadratisches Glied
   - $bx$ als lineares Glied
   - und $c$ als absolutes Glied.
@@ -57,9 +57,9 @@ das $x^2$ alleine auf eine Seite zu bringen.
 
 $$
 \begin{aligned}
-2x^2-8 &= 0 \enspace | +8 \\
-2x^2   &= 8 \enspace | :2 \\
-x^2    &= 4
+2x^2-8 &= 0    & &| +8 \\
+2x^2   &= 8    & &| :2 \\
+x^2    &= 4    &
 \end{aligned}
 $$
 
@@ -83,8 +83,8 @@ Es liegt wieder eine reinquadratische Gleichung vor, da $b=0$ ist. Wir formen al
 
 $$
 \begin{aligned}
-3x^2+6 &= 0 \enspace | -6 \\
-3x^2   &= -6 \enspace | :3 \\
+3x^2+6 &= 0   & &| -6 \\
+3x^2   &= -6  & &| :3 \\
 x^2    &= -2
 \end{aligned}
 $$
@@ -105,17 +105,17 @@ Bestimme die Lösungen von $2x^2+4x=0$.
 
 $$
 \begin{aligned}
-2x^2+4x &= 0 \enspace | \; x \text{ ausklammern} \\
+2x^2+4x        &= 0  & | \: x \text{ ausklammern} \\
 x \cdot (2x+4) &= 0
 \end{aligned}
 $$
-Nach dem Satz vom Nullprodukt ist ein Produkt Null, wenn eines seiner Faktoren Null ist. Damit haben
-wir die erste Lösung $x_1=0$ schon gefunden.  
-Für die zweite Lösung müssen wir noch $2x+4=0$ ausrechnen.
+Nach dem Satz vom Nullprodukt ist ein Produkt null, wenn eines seiner Faktoren null ist. Damit ist die erste 
+Lösung $x_1=0$ schon gefunden.  
+Für die zweite Lösung muss man noch $2x+4=0$ ausrechnen.
 $$
 \begin{aligned}
-2x+4    &= 0 \enspace | -4 \\
-2x      &= -4 \enspace | :2 \\
+2x+4    &= 0   & &| -4 \\
+2x      &= -4  & &| :2 \\
 x       &= -2
 \end{aligned}
 $$

@@ -55,13 +55,13 @@ Dabei ist
   - $c$ die alleinstehende Konstante (ohne $x$)
 
 Hier ein paar Beispiele:
-| Term           | $a$      | $b$      | $c$      | Anmerkungen                                |
-| :------------- | :------: | :------: | :------: | :----------------------------------------- |
-| $4x^2+7x+2=0$  | $4$      | $7$      | $2$      | Gleichung in allgemeiner Form              |
-| $-8x^2+x-5=0$  | $-8$     | $1$      | $-5$     | Vorsicht mit negativen Zahlen!             |
-| $6x^2+1=0$     | $6$      | $0$      | $1$      | Manche Terme können fehlen! ($=0$)         |
-| $7x^3+2x^2-8$  | $\times$ | $\times$ | $\times$ | Keine quadratische Gleichung! ($x^3$)      |
-| $x+11$         | $\times$ | $\times$ | $\times$ | Keine quadratische Gleichung! (kein $x^2$) |
+| Term             | $a$      | $b$      | $c$      | Anmerkungen                                |
+| :--------------- | :------: | :------: | :------: | :----------------------------------------- |
+| $4x^2+7x+2=0$    | $4$      | $7$      | $2$      | Gleichung in allgemeiner Form              |
+| $-8x^2+x-5=0$    | $-8$     | $1$      | $-5$     | Vorsicht mit negativen Zahlen!             |
+| $6x^2+1=0$       | $6$      | $0$      | $1$      | Manche Terme können fehlen! ($=0$)         |
+| $7x^3+2x^2-8=0$  | $\times$ | $\times$ | $\times$ | Keine quadratische Gleichung! ($x^3$)      |
+| $x+11=0$         | $\times$ | $\times$ | $\times$ | Keine quadratische Gleichung! (kein $x^2$) |
 
 **In unserem Beispiel:**  
 Aus der Gleichung $2x^2 +16x +24$ können wir ablesen: $a=2,\; b=16,\; c=24$.
