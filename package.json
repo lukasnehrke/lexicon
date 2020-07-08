@@ -9,11 +9,13 @@
   "repository": "https://github.com/lukasnehrke/lexicon",
   "bugs": "https://github.com/lukasnehrke/lexicon/issues",
   "scripts": {
-    "build": "lexicon build --clean --source src --output dist --config src/lexicon.yml"
+    "build": "lexicon build --clean --source src --output dist --config src/lexicon.yml",
+    "serve": "yarn run build && yarn exec superstatic --port 8080"
   },
   "devDependencies": {
-    "@lukasnehrke/lexicon-theme": "^0.0.16",
-    "@lukasnehrke/lexicon-tools": "^0.0.25",
-    "firebase-tools": "^8.4.3"
+    "@lukasnehrke/lexicon-theme": "^0.0.26",
+    "@lukasnehrke/lexicon-tools": "^0.0.33",
+    "firebase-tools": "^8.4.3",
+    "superstatic": "^6.0.4"
   }
 }
