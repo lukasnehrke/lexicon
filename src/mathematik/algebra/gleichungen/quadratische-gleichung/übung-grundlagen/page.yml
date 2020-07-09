@@ -1,0 +1,7 @@
+name: 'Übung: Grundlagen'
+type: exercise
+exercises:
+  wissensfragen:
+    name: Wissensfragen
+  lösen-1:
+    name: Gleichungen lösen (I)
