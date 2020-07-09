@@ -77,15 +77,15 @@
     lodash.camelcase "^4.3.0"
     protobufjs "^6.8.6"
 
-"@lukasnehrke/lexicon-theme@^0.0.26":
-  version "0.0.26"
-  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-theme/0.0.26/11dc8fd499cb4638f1d5bde3d9f5a7ed2fcd920dc710a99814dd7b44e43a96b3#21dc3ae14641fb54b913200d456ca88d7c09d516"
-  integrity sha512-HndxSLXSmucSJsSv+PUmC2AxVTGSl5CC0iGaPnY4Wo2ZkT0WmV+kQ+oWAmM1NC9fSQnFac2MJUCpYVqbGLDiKQ==
+"@lukasnehrke/lexicon-theme@^0.0.27":
+  version "0.0.27"
+  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-theme/0.0.27/2925a1af1e2c0f3e6a11e8b6b9179ca2a78bbf7dc3bd1370206d01673cfd65c7#a6054d4b911d9b0b5c8a551d7d9c83033dd8a543"
+  integrity sha512-wAElkqsoDME1sne/Y6Hrb8ZHEym3EoeGfih8cwqAOx7ypQq1cjU3fhDmk+pjRRj5p2vHpmO+NmUCatf/5vnjfw==
 
-"@lukasnehrke/lexicon-tools@^0.0.33":
-  version "0.0.33"
-  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-tools/0.0.33/44bc8bd7dba3113401d010848b8f9d045a842d56e541f3ae6d5f3376aac3928c#8d951773597f25ae12fc5ae174d39feed447f932"
-  integrity sha512-4ufQJq4h+07PIpoGsco+oi8KUYjvjTnWRRJ/PNb1M5bCLlQ9u6+kCq5fxrB/ls92rsPNvLRQLI+gYxnVrIGW3w==
+"@lukasnehrke/lexicon-tools@^0.0.34":
+  version "0.0.34"
+  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-tools/0.0.34/ba1b0d2e2547aa70c2b644dfcf997b067b77b8717e6579eefad82ca6155cf1bb#e2b16b2a5f3c3c6f8b54ce377c1284c916364241"
+  integrity sha512-W5VR3Ltze7sZOl45+re4CqRvI5T5LDpuixGUoi8w7ro9Sih/swzxwcIdTLI4tH1SY9Gcs8gYPYV8pChQe/wWgQ==
   dependencies:
     cli-color "^2.0.0"
     commander "^5.1.0"
@@ -101,7 +101,7 @@
     markdown-it-emoji "^1.4.0"
     ora "^4.0.4"
     rimraf "^3.0.2"
-    sitemap "^6.1.7"
+    sitemap "^6.2.0"
     slugify "^1.4.0"
     winston "^3.2.1"
     yaml "^1.10.0"
@@ -205,9 +205,9 @@
   integrity sha512-5tXH6Bx/kNGd3MgffdmP4dy2Z+G4eaXw0SE81Tq3BNadtnMR5/ySMzX4SLEzHJzSmPNn4HIdpQsBvXMUykr58w==
 
 "@types/node@*", "@types/node@^14.0.18":
-  version "14.0.19"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.19.tgz#994d99708822bca643a2364f8aeed04a16e0f5a1"
-  integrity sha512-yf3BP/NIXF37BjrK5klu//asUWitOEoUP5xE1mhSUjazotwJ/eJDgEmMQNlOeWOVv72j24QQ+3bqXHE++CFGag==
+  version "14.0.20"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.20.tgz#0da05cddbc761e1fa98af88a17244c8c1ff37231"
+  integrity sha512-MRn/NP3dee8yL5QhbSA6riuwkS+UOcsPUMOIOG3KMUQpuor/2TopdRBu8QaaB4fGU+gz/bzyDWt0FtUbeJ8H1A==
 
 "@types/node@^13.7.0":
   version "13.13.13"
@@ -1462,10 +1462,10 @@ finalhandler@1.1.2, finalhandler@~1.1.2:
     statuses "~1.5.0"
     unpipe "~1.0.0"
 
-firebase-tools@^8.4.3:
-  version "8.4.3"
-  resolved "https://registry.yarnpkg.com/firebase-tools/-/firebase-tools-8.4.3.tgz#2ddeb084c862bf47617d90db10ef08ba9a908661"
-  integrity sha512-tJaac9g957aaZYbMBgEt0Op1BhSoOECaAWMmbKsffgW/OSrqrTBK6r++TpyA52FwgjAZO+zxVQtqPkQfoOaftA==
+firebase-tools@^8.5.0:
+  version "8.5.0"
+  resolved "https://registry.yarnpkg.com/firebase-tools/-/firebase-tools-8.5.0.tgz#d97c042fd41055b1f1374d0c9007912dc6916ca5"
+  integrity sha512-y2iwrrSvf0DESwt2XEwpX4Uoo0meWREWPGfIlFHJu5vc47NQPRmyenlNZQ9skDpHXGHnNaNZqyr4R34ODIQ5Ew==
   dependencies:
     "@google-cloud/pubsub" "^1.7.0"
     JSONStream "^1.2.1"
@@ -3359,7 +3359,7 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
-sitemap@^6.1.7:
+sitemap@^6.2.0:
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/sitemap/-/sitemap-6.2.0.tgz#06c8b4f39025389a167e0b6d04347919bf62197f"
   integrity sha512-ta9BLo/ZLUNgfGVhknA2IHWuIXfcFPxMvMCY3Xhf141rEZoW8G5nIVCDR0/zeXJCAvWk+UzqxyLBtRBH1OOq6w==
