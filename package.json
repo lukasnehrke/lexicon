@@ -13,8 +13,8 @@
     "serve": "yarn run build && yarn exec superstatic --port 8080"
   },
   "devDependencies": {
-    "@lukasnehrke/lexicon-theme": "^0.0.27",
-    "@lukasnehrke/lexicon-tools": "^0.0.34",
+    "@lukasnehrke/lexicon-theme": "^0.0.28",
+    "@lukasnehrke/lexicon-tools": "^0.0.35",
     "firebase-tools": "^8.5.0",
     "superstatic": "^6.0.4"
   }
