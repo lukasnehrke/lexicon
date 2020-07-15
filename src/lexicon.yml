@@ -3,5 +3,4 @@ theme:
   require: '@lukasnehrke/lexicon-theme'
   config:
     name: 'Lexikon'
-    baseUrl: ''
     color: '#1976d2'
