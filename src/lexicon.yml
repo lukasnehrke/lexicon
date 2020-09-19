@@ -1,6 +1,1 @@
 name: Lexikon
-theme:
-  require: '@lukasnehrke/lexicon-theme'
-  config:
-    name: 'Lexikon'
-    color: '#1976d2'

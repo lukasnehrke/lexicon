@@ -1,3 +1,9 @@
+---
+title: Grundlagen
+type: lexicon:article
+authors: ['lukasnehrke']
+---
+
 # Grundlagen
 
 Mit dem **Entity-Relationship-Modell** (kurz ER-Modell) lassen sich Realweltausschnitte leicht verständlich

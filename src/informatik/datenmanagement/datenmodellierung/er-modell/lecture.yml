@@ -1,6 +1,6 @@
-name: Entity-Relationship-Modell
+title: Entity-Relationship-Modell
 pages: ['grundlagen']
-author: 'lukasnehrke'
+authors: ['lukasnehrke']
 descripion: >-
   Das E/R-Modell ist ein semantisches Datenbankmodell, um Realweltausschnitte bzw. Benutzeranforderungen
   einfach und ohne Implementierungsdetails darzustellen.

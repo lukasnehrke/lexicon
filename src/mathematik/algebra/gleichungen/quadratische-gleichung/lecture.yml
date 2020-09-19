@@ -1,6 +1,6 @@
-name: Quadratische Gleichung
+title: Quadratische Gleichung
 pages: ['grundlagen', 'mitternachtsformel', 'übung-grundlagen']
-author: 'lukasnehrke'
+authors: ['lukasnehrke']
 description: >-
   Eine quadratische Gleichung ist eine Gleichung, bei der die Unbekannte quadriert wird. In der Regel werden diese
   Gleichungen mit der Mitternachts- oder der pq-Formel gelöst.
