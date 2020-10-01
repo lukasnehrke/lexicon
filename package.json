@@ -13,6 +13,6 @@
     "serve": "yarn run build && yarn exec superstatic --port 8080"
   },
   "devDependencies": {
-    "@lukasnehrke/lexicon-tools": "1.0.0"
+    "@lukasnehrke/lexicon-tools": "1.0.2"
   }
 }

@@ -1,7 +1,7 @@
-name: 'Übung: Grundlagen'
-type: exercise
+title: 'Übung: Grundlagen'
+type: lexicon:exercise
 exercises:
   wissensfragen:
-    name: Wissensfragen
+    title: Wissensfragen
   lösen-1:
-    name: Gleichungen lösen (I)
+    title: Gleichungen lösen (I)
