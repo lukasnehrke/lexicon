@@ -13,16 +13,16 @@ die Nullstellen einer quadratischen Funktion bestimmen.
 Gegeben ist eine Gleichung der Form <lx-math>ax^2+bx+c=0</lx-math> (allgemeine Form).  
 Dann lauten die Lösungen <lx-math>x_1</lx-math> und <lx-math>x_2</lx-math> dieser Gleichung:
 
-<lx-math>
-\begin{aligned}
-  x_{1} &= \frac{-b + \sqrt{b^2-4ac}}{2a} \\[1.5em]
-  x_{2} &= \frac{-b - \sqrt{b^2-4ac}}{2a}
-\end{aligned}
+<lx-math block>
+\begin{aligned}  
+  x_{1} &= \frac{-b + \sqrt{b^2-4ac}}{2a} \\[1.5em]  
+  x_{2} &= \frac{-b - \sqrt{b^2-4ac}}{2a}  
+\end{aligned}  
 </lx-math>
 
 Oder in Kurzschreibweise zusammengefasst:
 
-<lx-math>
+<lx-math block>
 \boxed{x_{1/2}=\frac{-b \pm \sqrt{b^2-4ac}}{2a}}
 </lx-math>
 
@@ -42,13 +42,13 @@ Verwende zur Umformung dir bekannte Rechenregeln (z.B. Ausmultiplizieren, Zusamm
 
 **In unserem Beispiel:**
 
-<lx-math>
-\begin{aligned}
-  20x + 2x^2 + 4   &= 4x -20   & | +20 \\
-  20x + 2x^2 + 24  &= 4x       & | -4x \\
-  16x + 2x^2 + 24  &= 0        & | \text{ sortieren} \\
-  2x^2 +16x +24    &= 0        &
-\end{aligned}
+<lx-math block>
+\begin{aligned}  
+  20x + 2x^2 + 4   &= 4x -20   & | +20 \\  
+  20x + 2x^2 + 24  &= 4x       & | -4x \\  
+  16x + 2x^2 + 24  &= 0        & | \text{ sortieren} \\  
+  2x^2 +16x +24    &= 0        &  
+\end{aligned}  
 </lx-math>
 
 ### Schritt 2: Überprüfung
@@ -84,7 +84,7 @@ die Gleichung überhaupt lösbar ist.
 ::: info Diskriminante einer quadratischen Gleichung  
 Die Diskriminante <lx-math>D</lx-math> bestimmt, wie viele Lösungen die Gleichung besitzt.
 
-<lx-math>
+<lx-math block>
 D = b^2-4ac
 </lx-math>
 
@@ -97,7 +97,7 @@ Dabei gilt:
 **In unserem Beispiel:**  
 Wir rechnen die Diskriminante aus:
 
-<lx-math>
+<lx-math block>
 D = \underbrace{16^2}_{b}-4\cdot \underbrace{2}_{a} \cdot \underbrace{24}_{c} = 256 - 192 = 64 > 0
 </lx-math>
 
@@ -107,22 +107,22 @@ Da <lx-math>D > 0</lx-math> ist, hat die Beispielgleichung zwei Lösungen.
 Ist <lx-math>D \geq 0</lx-math>, dann können wir die Koeffizienten in die Formel einsetzen und die Lösungen bestimmen.  
 Zur Erinnerung: Eine quadratische Gleichung kann zwei Lösungen haben:
 
-<lx-math>
-\begin{aligned}
-  x_1 &= \frac{-b + \sqrt{D}}{2a} = \frac{-b + \sqrt{b^2-4ac}}{2a} \\[1.5em]
-  x_2 &= \frac{-b - \sqrt{D}}{2a} = \frac{-b - \sqrt{b^2-4ac}}{2a}
-\end{aligned}
+<lx-math block>
+\begin{aligned}  
+  x_1 &= \frac{-b + \sqrt{D}}{2a} = \frac{-b + \sqrt{b^2-4ac}}{2a} \\[1.5em]  
+  x_2 &= \frac{-b - \sqrt{D}}{2a} = \frac{-b - \sqrt{b^2-4ac}}{2a}  
+\end{aligned}  
 </lx-math>
 
 **In unserem Beispiel:**  
 Wir setzen die Koeffizienten und <lx-math>D</lx-math> in die Mitternachtsformel ein:
 
-<lx-math>
-\begin{aligned}
-  x_{1/2} &= \frac{-16 \pm \sqrt{64}}{2\cdot2} = \frac{-16 \pm 8}{4} \\[1.5em]
-  x_1     &= \frac{-16 + 8}{4} = \frac{-8}{4} = -2 \\[1em]
-  x_2     &= \frac{-16 - 8}{4} = \frac{-24}{4} = -6
-\end{aligned}
+<lx-math block>
+\begin{aligned}  
+  x_{1/2} &= \frac{-16 \pm \sqrt{64}}{2\cdot2} = \frac{-16 \pm 8}{4} \\[1.5em]  
+  x_1     &= \frac{-16 + 8}{4} = \frac{-8}{4} = -2 \\[1em]  
+  x_2     &= \frac{-16 - 8}{4} = \frac{-24}{4} = -6  
+\end{aligned}  
 </lx-math>
 
 Fertig! Die Lösungen der Gleichung sind <lx-math>x_1 = -2</lx-math> und <lx-math>x_2 = -6</lx-math>.
