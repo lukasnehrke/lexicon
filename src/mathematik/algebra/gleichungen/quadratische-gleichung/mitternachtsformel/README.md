@@ -55,7 +55,7 @@ Verwende zur Umformung dir bekannte Rechenregeln (z.B. Ausmultiplizieren, Zusamm
 Die Mitternachtsformel kann nur bei **quadratischen** Gleichungen angewendet werden. Wenn es ein <lx-math>x</lx-math> mit höheren
 Exponenten als 2 gibt (z.B. <lx-math>x^3</lx-math> oder <lx-math>x^4</lx-math>), lässt sich die Formel _nicht_ anwenden.
 
-Ist die Gleichung [reinquadratisch](-grundlagen) oder hat sie [kein absolutes Glied](-grundlagen), _sollte_ man die
+Ist die Gleichung reinquadratisch oder hat sie kein absolutes Glied, _sollte_ man die
 Mitternachtsformel nicht anwenden, weil man die Lösungen schneller durch Umformen bestimmen kann.
 
 ### Schritt 3: Koeffizienten ablesen

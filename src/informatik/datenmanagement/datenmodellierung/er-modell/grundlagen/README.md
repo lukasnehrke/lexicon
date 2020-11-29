@@ -101,7 +101,7 @@ Weitere Beispiele für Schlüsselattribute:
   
 Im ER-Diagramm werden Schlüsselattribute unterstrichen. 
 
-![Mitarbeiter mit Attribut Nr.](../_material/diagramm-schlüssel.png "ER-Diagramm: Schlüsselattribut") {.center}
+![Mitarbeiter mit Attribut Nr.](../_material/diagramm-schluessel.png "ER-Diagramm: Schlüsselattribut") {.center}
 
 Es kann mehrere Schlüsselattribute pro Entity-Typ geben, diese sind aber **unabhängig voneinander**.
 Um auszudrücken, dass eine Kombination aus Attributen ein Entity identifiziert, muss ein zusammengesetztes Attribut als
@@ -109,7 +109,7 @@ Schlüssel definiert werden.
 
 <div class="left">
   <figure class="center">
-    <img src="../_material/diagramm-schlüssel2.png" alt="Mehrere Schlüssel" title="ER-Diagramm: Mehrere Schlüssel">
+    <img src="../_material/diagramm-schluessel2.png" alt="Mehrere Schlüssel" title="ER-Diagramm: Mehrere Schlüssel">
     <figcaption>
       Es darf keine Personen geben, die den gleichen Vornamen <b>oder</b> den gleichen Nachnamen haben.<br>
       (Vor- und Nachname müssen beide einzigartig sein)
@@ -118,7 +118,7 @@ Schlüssel definiert werden.
 </div>
 <div class="right">
   <figure class="center">
-    <img src="../_material/diagramm-schlüssel3.png" alt="Zusammengesetzter Schlüssel" title="ER-Diagramm: Zusammengesetzter Schlüssel">
+    <img src="../_material/diagramm-schluessel3.png" alt="Zusammengesetzter Schlüssel" title="ER-Diagramm: Zusammengesetzter Schlüssel">
     <figcaption>
       Es darf keine Personen geben, die den gleichen Vornamen <b>und</b> den gleichen Nachnamen haben.<br>
       (Vor- und Nachname müssen gemeinsam einzigartig sein)

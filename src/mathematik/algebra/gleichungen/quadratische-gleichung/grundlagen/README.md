@@ -140,7 +140,7 @@ Die beiden Lösungen der Gleichung sind also <lx-math>x_1=0</lx-math> und <lx-ma
 Liegt weder Form (1) noch Form (2) vor, dann kann man die Lösungen nicht durch einfaches Umformen
 bestimmen.  
 Um Gleichungen in allgemeiner Form zu lösen, benötigt man die 
-[Mitternachtsformel](-mitternachtsformel). Setzt man die Koeffizienten <lx-math>a</lx-math>, <lx-math>b</lx-math> und <lx-math>c</lx-math> in die 
+[Mitternachtsformel](../mitternachtsformel). Setzt man die Koeffizienten <lx-math>a</lx-math>, <lx-math>b</lx-math> und <lx-math>c</lx-math> in die 
 Formel ein, ergeben sich die Lösungen <lx-math>x_1</lx-math> und <lx-math>x_2</lx-math>.
 
 <lx-math block>

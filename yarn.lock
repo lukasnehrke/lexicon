@@ -115,10 +115,10 @@
     enabled "2.0.x"
     kuler "^2.0.0"
 
-"@lukasnehrke/lexicon-tools@1.0.4":
-  version "1.0.4"
-  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-tools/1.0.4/e8f0c1e2e8322507795ac2296f238a8ec6b0f2931a7c5ae0b8a765932cd99178#8c43ad95cf3b893b8619f441dc7eb949f28472b2"
-  integrity sha512-5OPV9uebuvsqeOzfkupHEbAF5tssKVBzjpYZqnVhe+DCNJ/jxQLAt9ENu+BVwanZC9DiDh1jl1pqEXExmnnX0Q==
+"@lukasnehrke/lexicon-tools@^1.0.8":
+  version "1.0.8"
+  resolved "https://npm.pkg.github.com/download/@lukasnehrke/lexicon-tools/1.0.8/4c84d4fcb0de52a25fc21e0bfe82050698e2fe2a30db0f8732d55e632c099010#2149eaa542e2824c024ec15652b412ecdfd71d34"
+  integrity sha512-zGfksgXal14o3Dtf502zEcGpkVv97phTyeGpoj1vbtQCM3M4gzQB0yslVKiPx3pKSBt1vFhGQnwpFK0hAuHhaQ==
   dependencies:
     algoliasearch "^4.5.1"
     chokidar "^3.4.2"
